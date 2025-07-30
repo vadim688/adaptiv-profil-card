@@ -50,3 +50,11 @@ body {
     text-align: center;
     margin-top: 10px;
 }
+
+button{
+    font-size: 15px;
+    text-align: center;
+    color: #7dc268;
+    background-color: #080404;
+    border-radius: 13px;
+}
